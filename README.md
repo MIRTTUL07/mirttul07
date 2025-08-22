@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **APP Development and more.**
 
-- 👨‍💻 All of my projects are available at [mirttul.netlify.app](mirttul.netlify.app)
-
 - 📫 How to reach me **mirttul2776@gmail.com**
 
 - ⚡ Fun fact **I still debug with printf and I’m proud of it.**
